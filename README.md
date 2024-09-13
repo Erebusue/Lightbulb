@@ -11,7 +11,7 @@ https://www.canadiantire.ca/en/pdp/energizer-4-pk-cr2032-3v-3-volt-lithium-coin-
 
 2. The battery holder
 
-https://jlcpcb.com/parts/componentSearch?searchTxt=cr2032
+https://www.lcsc.com/product-detail/Battery-Connectors_Lian-Xin-Technology-BS-CR2032-8_C7498149.html
 
 3. The diodes
 
